@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+const gitDefinition = " Git is version contro system. It used for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. "
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+const gitHubDefinition = " GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+const gitInitDefinition = " It is git command used to initialize new git repository. "
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+const gitCloneDefinition = " It is git command used to Clone a repository into a new directory"
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +46,7 @@
 */
 
 //CODE HERE
+const gitStatusDefinition = " It is git command used to show the working tree status."
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +58,9 @@
 */
 
 //CODE HERE
+const gitAddDefinition = " It is git command used to add file contents to the index "
+
+const gitAddCode = " git add ."
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -65,6 +73,10 @@
 
 //CODE HERE
 
+const gitCommitDefinition = " The git commit command captures a snapshot of the project's currently staged changes."
+
+const gitCommitCode = ` git commit -am "Initial commit"`
+
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +85,4 @@
 */
 
 //CODE HERE
+const gitPushDefinition = " The git push command is used to upload local repository content to a remote repository."
